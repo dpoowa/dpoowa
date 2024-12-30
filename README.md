@@ -1,5 +1,7 @@
 ## Hi there 👋
-![KakaoTalk_20241230_105229012](https://github.com/user-attachments/assets/f191ca71-e36a-4852-a157-a43f7abe5c96)
+
+![KakaoTalk_20241230_105638778](https://github.com/user-attachments/assets/1c3ca9dd-d51f-4661-ad66-2f870148cfb5)
+
 <!--
 **dpoowa/dpoowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
